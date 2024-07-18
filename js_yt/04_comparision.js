@@ -1,7 +1,7 @@
-// console.log(3<2);
+console.log(3<2);
 
-// console.log("2">1);
-// console.log("02">1);
+ console.log("2">1);
+ console.log("02">1);
 
 /*
 the reason is that an equality check == and comparisons >< <= >= work differently.
